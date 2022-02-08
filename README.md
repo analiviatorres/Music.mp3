@@ -2,7 +2,7 @@
 
 # Descrição
 
-Um Pequeno clone do spotify
+Um simples reprodutor de música com funções simples.
 
 # Tecnologias
 
